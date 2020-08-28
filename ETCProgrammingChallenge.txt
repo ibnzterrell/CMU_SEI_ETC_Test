@@ -1,0 +1,15 @@
+Find the Missing Number in a Set
+--------------------------------
+
+Create a program that will achieve the following:
+
+Given a **sorted** list of number find the missing number in the set. 
+For example: in [0,1,2,3,4,6] 5 would be the correct answer.
+
+This problem should require less than 30 minutes to complete.  
+
+You can use your programming language of preference.
+Be prepared to talk about the solution you developed, we will discuss edge cases or talk through changes.
+If you have any questions, please reach out.
+
+Return your solution with the source code (if compiled) and an estimate of the time it took to create your solution.
